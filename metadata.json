@@ -1,0 +1,7 @@
+{
+  "name": "Copy of Copy of Bapenda Kampar Tax Arrears Validator",
+  "description": "A high-precision data extraction and verification tool for regional tax arrears (PBB-P2) records for Bapenda Kabupaten Kampar.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
